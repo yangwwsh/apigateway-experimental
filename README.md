@@ -7,7 +7,7 @@ To utilze the Gateway, you must use the newest version of the [APIC API Toolkit.
 
 ### What is new? 
 
-![Image of Datapower Reboot](/images/DataPower_reboot%20#1.jpeg)
+![Image of Datapower Reboot](/images/DataPower_reboot%20%231.jpeg)
 
 1. **WISIWIG:** What You See Is What You Get. With the new DataPower API Gateway, there is a one to one relationship between what you drag and drop in the assembly tool and what happens in the gateway.  As you can assume, this greatly increases performance and decreases time debugging, as the developer now knows exactly what should happen on the Gateway.
 
