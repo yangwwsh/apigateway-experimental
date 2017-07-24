@@ -18,11 +18,12 @@ The Developer toolkit allows the testing and development of APIs with the API Co
 See: https://github.com/ibm-apiconnect/getting-started/blob/master/toolkit/0-Prereq/README.md)
 
 **Install Docker and Docker Compose:**
-Operating System  Reference
-MacOS             (macos-install.md)[macos-install.md]
-Linux             (linux-install.md)[linux-install.md]
-Windows 10        (win10-install.md)[win10-install.md]
-Windows 7         (win7-install.md)[win7-install.md]
+| Operating System |              Reference              |
+| ---------------- | ----------------------------------- |
+| MacOS            | (macos-install.md)[macos-install.md]|
+| Linux            | (linux-install.md)[linux-install.md]|
+| Windows 10       | (win10-install.md)[win10-install.md]|
+| Windows 7        | (win7-install.md)[win7-install.md]  |
 
 **Configuration:**
 
